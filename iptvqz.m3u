@@ -81,6 +81,8 @@ http://5.135.92.133:52841/out/u/502_1.m3u8
 http://live02-cdn.tv.ti.ru:80/dtv/id376_NBN_SG--Fox_HD/04/plst.m3u8
 #EXTINF:-1 tvg-id="foxlife",FOX_LIFE_HD
 http://live-ng-01.more.tv/hls/Fox_Life_HD/index_1.m3u8
+#EXTINF:-1 tvg-id="",2X2
+http://live02-cdn.tv.ti.ru:80/dtv/id105_NBN_SG--2x2/03/plst.m3u8
 #EXTINF:-1 tvg-id="cartoon-network",CARTOON NETWORK
 http://live02-cdn.tv.ti.ru:80/dtv/id141_NBN_SG--cartoon/03/plst.m3u8
 #EXTINF:-1 tvg-id="boomerang",BOOMERANG
