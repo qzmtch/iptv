@@ -18,7 +18,7 @@ http://live02-cdn.tv.ti.ru:80/dtv/id121_NBN_SG--sts/03/plst.m3u8
 #EXTINF:-1 tvg-id="rentv",РЕН ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="zvezda",ЗВЕЗДА HD
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+http://live02-cdn.tv.ti.ru:80/dtv/id269_NBN_SG--zvezda/03/plst.m3u8
 #EXTINF:-1 tvg-id="rossia-24",РОССИЯ 24
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="otr",ОТР
@@ -42,9 +42,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="tnt-music",ТНТ MUSIC
 http://live02-cdn.tv.ti.ru:80/dtv/id379_NBN_SG--A_One/03/plst.m3u8
 #EXTINF:-1 tvg-id="moya-planeta",МОЯ ПЛАНЕТА HD
-http://live02-cdn.tv.ti.ru:80/dtv/id667_NBN_SG--PlanetaHD/04/plst.m3u8
+http://live02-cdn.tv.ti.ru:80/dtv/id205_NBN_SG--MyPlannet/03/plst.m3u8
 #EXTINF:-1 tvg-id="360-news",360 НОВОСТИ HD
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+http://live02-cdn.tv.ti.ru:80/dtv/id743_NBN_SG--360novosti/03/plst.m3u8
 #EXTINF:-1 tvg-id="360-podmoskovie",360 ПОДМОСКОВЬЕ HD
 http://live02-cdn.tv.ti.ru:80/dtv/id1272_NBN_SG--360HD_wflite/04/plst.m3u8
 #EXTINF:-1 tvg-id="2na2",2X2 HD
@@ -56,7 +56,7 @@ http://live02-cdn.tv.ti.ru:80/dtv/id1340_NBN_SG--MuzikaPervogo/03/plst.m3u8
 #EXTINF:-1 tvg-id="kuxnia-tv",КУХНЯ ТВ
 http://live02-cdn.tv.ti.ru:80/dtv/id1345_NBN_SG--kuhnya_tv_wflite/03/plst.m3u8
 #EXTINF:-1 tvg-id="izvestia",ИЗВЕСТИЯ HD
-http://live02-cdn.tv.ti.ru:80/dtv/id1275_NBN_SG--IzvestiaHD/04/plst.m3u8
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF: -1 tvg-id="super",Супер
 https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565199329/2cc8a3d506291285a3896e8b871b3e90/playlist.m3u8?|User-agent=mx
 #EXTINF:-1 tvg-id="amedia2",A2
@@ -93,8 +93,8 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version
 https://hls.goodgame.ru/manifest/157239_master.m3u8
 #EXTINF:-1 tvg-id="jimjam",JIMJAM
 http://live02-cdn.tv.ti.ru:80/dtv/id249_NBN_SG--JimJam/03/plst.m3u8
-#EXTINF:-1 tvg-id="nickelodeon-ru", NICKELODEON
-http://90.189.166.244:1234/udp/233.7.70.52:5000
+#EXTINF:-1 tvg-id="nickelodeon-ru",NICKELODEON
+http://83.172.32.25:8004/tv/nickelodeon
 #EXTINF:-1 tvg-id="nickelodeon-hd",NICKELODEON HD
 http://live02-cdn.tv.ti.ru:80/dtv/id385_NBN_SG--Nickelodeon_HD/04/plst.m3u8
 #EXTINF:-1 tvg-id="paramount-channel",PARAMOUNT CHANNEL
@@ -632,7 +632,7 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-id="",ЗДОРОВЬЕ ТВ
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-id="",ИЗВЕСТИЯ ТВ HD
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+http://live02-cdn.tv.ti.ru:80/dtv/id1275_NBN_SG--IzvestiaHD/04/plst.m3u8
 #EXTINF:-1 tvg-id="",ИНДИЙСКОЕ КИНО
 http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
 #EXTINF:-1 tvg-id="",КАНАЛ DISNEY
@@ -641,8 +641,8 @@ http://live02-cdn.tv.ti.ru:80/dtv/id139_NBN_SG--disney/03/plst.m3u8
 http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-id="",МОСКВА 24
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="",МОЯ ПЛАНЕТА
-http://live02-cdn.tv.ti.ru:80/dtv/id205_NBN_SG--MyPlannet/03/plst.m3u8
+#EXTINF:-1 tvg-id="moya-planeta",МОЯ ПЛАНЕТА HD
+http://live02-cdn.tv.ti.ru:80/dtv/id667_NBN_SG--PlanetaHD/04/plst.m3u8
 #EXTINF:-1 tvg-id="",МУЗЫКА 80-90S
 http://hls.clubplus.eu/ch09/index.m3u8
 #EXTINF:-1 tvg-id="",МУЗЫКА КИНО
@@ -653,6 +653,8 @@ http://live02-cdn.tv.ti.ru:80/dtv/id350_NBN_SG--multimania/03/plst.m3u8
 http://live02-cdn.tv.ti.ru:80/dtv/id233_NBN_SG--Strana/03/plst.m3u8
 #EXTINF:-1 tvg-id="",ОСТРОСЮЖЕТНОЕ HD
 http://188.35.9.11:2015
+#EXTINF:-1 tvg-id="zvezda",ЗВЕЗДА HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-id="",ОТР
 http://live02-cdn.tv.ti.ru:80/dtv/id270_NBN_SG--OTR/03/plst.m3u8
 #EXTINF:-1 tvg-id="",ПЕРВЫЙ КАНАЛ
@@ -821,3 +823,7 @@ http://live02-cdn.tv.ti.ru:80/dtv/id258_NBN_SG--tnt_comedy/03/plst.m3u8
 http://live02-cdn.tv.ti.ru:80/dtv/id128_NBN_SG--perez/03/plst.m3u8
 #EXTINF:-1 tvg-id="",Ю
 http://live02-cdn.tv.ti.ru:80/dtv/id115_NBN_SG--u-channel/03/plst.m3u8
+#EXTINF:-1 tvg-id="nickelodeon-ru",NICKELODEON
+http://90.189.166.244:1234/udp/233.7.70.52:5000
+#EXTINF:-1 tvg-id="360-news",360 НОВОСТИ HD
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
