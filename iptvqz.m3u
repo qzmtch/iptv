@@ -55,14 +55,12 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
 https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
 #EXTINF:-1, ИЗВЕСТИЯ HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 ,Москва 24
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=moscow24
-#EXTINF:-1 ,Москва Доверие
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=moscvadoverie
-#EXTINF:-1 ,Телеканал 360
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=ch360
-#EXTINF:-1 ,360 новости
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=ch360news
+#EXTINF:-1, 360
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
+#EXTINF:-1, 360 Новости
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
+#EXTINF:-1, МОСКВА 24
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2
 #EXTINF:-1,VIP Premiere
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=vip_premiere
 #EXTINF:-1,VIP Megahit
@@ -439,12 +437,14 @@ http://dmitry-tv.ml/hls/CH_TV1000HD.m3u8
 http://83.222.205.65:8080/tntmusic/index.m3u8
 #EXTINF:-1, CANAL+MOTOR
 https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
-#EXTINF:-1, 360
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
-#EXTINF:-1, 360 Новости
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
-#EXTINF:-1, МОСКВА 24
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2
+#EXTINF:-1 ,Москва 24
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=moscow24
+#EXTINF:-1 ,Москва Доверие
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=moscvadoverie
+#EXTINF:-1 ,Телеканал 360
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=ch360
+#EXTINF:-1 ,360 новости
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=ch360news
 #EXTINF:-1, FOX FHD
 http://46.34.209.243:80/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
 #EXTINF:-1, FOX LIFE FHD
