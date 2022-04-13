@@ -56,15 +56,13 @@ https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
 #EXTINF:-1, ИЗВЕСТИЯ HD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 ,Москва 24
-https://livetv.mylifeisgood.ml/channels/moscow24
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=moscow24
 #EXTINF:-1 ,Москва Доверие
-https://livetv.mylifeisgood.ml/channels/moscvadoverie
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=moscvadoverie
 #EXTINF:-1 ,Телеканал 360
-https://livetv.mylifeisgood.ml/channels/ch360
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=ch360
 #EXTINF:-1 ,360 новости
-https://livetv.mylifeisgood.ml/channels/ch360news
-#EXTINF:-1, МОСКВА 24
-http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=ch360news
 #EXTINF:-1,VIP Premiere
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=vip_premiere
 #EXTINF:-1,VIP Megahit
@@ -77,16 +75,10 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=vip_serial
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=paramount_comedy
 #EXTINF:-1,Fox HD
 https://sc.id-tv.kz:443/FOX_HD_34_35.m3u8
-#EXTINF:-1,FOX Life
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=fox
 #EXTINF:-1 ,Fox HD
-https://livetv.mylifeisgood.ml/channels/fox
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=fox
 #EXTINF:-1 ,Fox Life HD
-https://livetv.mylifeisgood.ml/channels/foxlife
-#EXTINF:-1,Trash
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=trash
-#EXTINF:-1,Trash HD
-https://livetv.mylifeisgood.ml/channels/trash
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=foxlife
 #EXTINF:-1,TV 1000 Action HD
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tv1000action
 #EXTINF:-1,TV 1000 HD
@@ -99,18 +91,6 @@ https://sc.id-tv.kz:443/H2HD_36_37.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/bw2000000/variant.m3u8?version=2
 #EXTINF:-1, Ю
 http://zabava-htlive.cdn.ngenix.net/hls/CH_U/bw2000000/variant.m3u8?version=2
-#EXTINF:-1,Енисей HD
-http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1, МИР 24 HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1, МИР PREMIUM
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1,Время
-https://sc.id-tv.kz:443/Vremya_36_37.m3u8
-#EXTINF:-1,Дорама
-https://sc.id-tv.kz/dorama_hd_36_37.m3u8
-#EXTINF:-1,Дорама HD
-https://sc.id-tv.kz:443/dorama_hd_34_35.m3u8
 #EXTINF:-1,Дом Кино Премиум
 https://sc.id-tv.kz/domkino_hd.m3u8
 #EXTINF:-1,Дом кино
@@ -119,8 +99,6 @@ https://sc.id-tv.kz:443/DomKino_36_37.m3u8
 https://sc.id-tv.kz/domkino_hd_34_35.m3u8
 #EXTINF:-1,Дом кино премиум HD
 https://sc.id-tv.kz:443/domkino_hd_34_35.m3u8
-#EXTINF:-1,Киноужас HD
-https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
 #EXTINF:-1,Иллюзион +
 https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
 #EXTINF:-1,Индийское кино
@@ -145,61 +123,38 @@ https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
 https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
 #EXTINF:-1,Кинопремьера FHD
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1,Киноужас HD
+https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
 #EXTINF:-1, CINEMA
 https://sc.id-tv.kz/Cinema_34_35.m3u8
-
-#EXTINF:-1, TV 1000 ACTION FHD
-http://dmitry-tv.ml/hls/CH_TV1000ACTIONHD.m3u8
-#EXTINF:-1, TV 1000 HD
-http://dmitry-tv.ml/hls/CH_TV1000HD.m3u8
+#EXTINF:-1,Енисей HD
+http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
+#EXTINF:-1, МИР 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1, МИР PREMIUM
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1,Время
+https://sc.id-tv.kz:443/Vremya_36_37.m3u8
+#EXTINF:-1,Дорама
+https://sc.id-tv.kz/dorama_hd_36_37.m3u8
+#EXTINF:-1,Дорама HD
+https://sc.id-tv.kz:443/dorama_hd_34_35.m3u8
 #EXTINF:-1, СТС LOVE
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1, СТС INTERNATIONAL
 https://sc.id-tv.kz/STS_34_35.m3u8
 #EXTINF:-1,Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1,Кинокомедия
-http://146.158.0.56/KomediyaTV/mono.m3u8
-#EXTINF:-1,Кинокомедия
-https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
-#EXTINF:-1, КИНОМИКС
-https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
-#EXTINF:-1, КИНОПРЕМЬЕРА HD
-https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-#EXTINF:-1, КИНОСВИДАНИЕ
-http://94.154.83.88:10000/kinosvidanie
-#EXTINF:-1,Киносвидание HD
-https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
-#EXTINF:-1, КИНОСЕМЬЯ
-https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
-#EXTINF:-1, КИНОСЕРИЯ
-http://109.239.128.126:8080/kinoseria/tracks-v2a1/mono.m3u8
-#EXTINF:-1, РОДНОЕ КИНО (+3)
-https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
-#EXTINF:-1, КИНОУЖАС HD
-http://109.239.128.126:8080/kinouzhas/tracks-v2a1/mono.m3u8
-#EXTINF:-1, КИНОУЖАС (+3)
-http://46.34.209.244:80/btv/SWM/KinoUzhas/KinoUzhas_576p_2000kbps.m3u8
-#EXTINF:-1, КИНОХИТ
-https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
-#EXTINF:-1, МУЖСКОЕ КИНО
-https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
-#EXTINF:-1, НАШЕ НОВОЕ КИНО
-http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_720p_3500kbps.m3u8
-#EXTINF:-1, КОМЕДИЯ ТВ
-http://78.58.133.179:28000/play/a203/index.m3u8
-#EXTINF:-1, РУССКИЙ ИЛЛЮЗИОН
-http://86.57.178.105:10823
 #EXTINF:-1, Первый СССР
 http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
 #EXTINF:-1 ,НТВ Хит
-https://livetv.mylifeisgood.ml/channels/ntvhit24
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=ntvhit24
 #EXTINF:-1 ,НТВ Сериал
-https://livetv.mylifeisgood.ml/channels/ntvserial24
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=ntvserial24
 #EXTINF:-1 ,НТВ Право
-https://livetv.mylifeisgood.ml/channels/ntvpravo24
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=ntvpravo24
 #EXTINF:-1 ,НТВ Стиль
-https://livetv.mylifeisgood.ml/channels/ntvstyle24
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=ntvstyle24
 #EXTINF:-1,Мужской
 https://sc.id-tv.kz/Mujskoi_34_35.m3u8
 #EXTINF:-1,TLC
@@ -217,7 +172,7 @@ https://sc.id-tv.kz/Disc_chHD_34_35.m3u8
 #EXTINF:-1,Discovery Science
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
 #EXTINF:-1 ,Investigation Discovery HD
-https://livetv.mylifeisgood.ml/channels/discoveryxtra
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryxtra
 #EXTINF:-1,DTX
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
 #EXTINF:-1,DTX HD
@@ -225,9 +180,9 @@ https://livetv.mylifeisgood.ml/channels/discoverydtx
 #EXTINF:-1,Приключения HD
 http://livetv.mylifeisgood.ml/mfolive.m3u8?media=adventureshd
 #EXTINF:-1,Первый космический HD
-https://livetv.mylifeisgood.ml/channels/firstspace
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=firstspace
 #EXTINF:-1 ,National Geographic
-https://livetv.mylifeisgood.ml/channels/national_geographic
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=national_geographic
 #EXTINF:-1,National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1,Наука 2.0
@@ -299,7 +254,7 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
 #EXTINF:-1, РТР РОССИЯ
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 ,78 канал Санкт-Петербург
-https://livetv.mylifeisgood.ml/channels/78saintpetersburg
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=78saintpetersburg
 #EXTINF:-1, ВРЕМЯ
 http://46.34.209.243:80/btv/SWM/Vremya/Vremya_576p_2000kbps.m3u8
 #EXTINF:-1, TV PRO
@@ -393,21 +348,19 @@ http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3
 #EXTINF:-1,High TV Network Russia
 https://v2.catcast.tv/content/270/index.m3u8
 #EXTINF:-1,Старт HD
-https://livetv.mylifeisgood.ml/channels/startlive
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=startlive
 #EXTINF:-1 ,Матч! Страна
-https://livetv.mylifeisgood.ml/channels/matchstrana
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=matchstrana
 #EXTINF:-1 ,Матч! Планета
-https://livetv.mylifeisgood.ml/channels/matchplaneta
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=matchplaneta
 #EXTINF:-1,Viasat Sport HD
-https://livetv.mylifeisgood.ml/channels/viasatsporthd
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=viasatsporthd
 #EXTINF:-1 ,Setanta 1 HD
-https://livetv.mylifeisgood.ml/channels/setantahd
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=setantahd
 #EXTINF:-1 ,Setanta 2 HD
-https://livetv.mylifeisgood.ml/channels/setantaplus
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=setantaplus
 #EXTINF:-1 ,Eurosport 1 HD
-https://livetv.mylifeisgood.ml/channels/eurosport1ru
-#EXTINF:-1 ,Eurosport 2 HD
-https://livetv.mylifeisgood.ml/channels/eurosport2
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=eurosport1ru
 #EXTINF:-1,Eurosport 2
 http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=eurosport2
 #EXTINF:-1,Extreme sports
@@ -419,27 +372,27 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1,MTV Block Party HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 #EXTINF:-1 ,Bridge
-https://livetv.mylifeisgood.ml/channels/bridgetv24h
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgetv24h
 #EXTINF:-1 ,Bridge Classic
-https://livetv.mylifeisgood.ml/channels/bridgeclassictv
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgeclassictv
 #EXTINF:-1 ,Bridge Deluxe
-https://livetv.mylifeisgood.ml/channels/bridgedeluxetv
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgedeluxetv
 #EXTINF:-1 ,Bridge Hits
-https://livetv.mylifeisgood.ml/channels/bridgehitstv
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgehitstv
 #EXTINF:-1 ,Bridge Русский хит
-https://livetv.mylifeisgood.ml/channels/bridgerushittv
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgerushittv
 #EXTINF:-1 ,Bridge Шлягер
-https://livetv.mylifeisgood.ml/channels/bridgetvshlyager
+https://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgetvshlyager
 #EXTINF:-1 ,Bridge Фрэш
-https://2serv.mylifeisgood.ml/channels/bridgefreshya
-#EXTINF:-1 tvg-id="europa-plus-tv" group-title="Музыкальные",Европа Плюс HD
-https://2serv.mylifeisgood.ml/channels/europaplustv
+https://2serv.mylifeisgood.ml/mfolive.m3u8?media=bridgefreshya
+#EXTINF:-1 ,Европа Плюс HD
+https://2serv.mylifeisgood.ml/mfolive.m3u8?media=europaplustv
 #EXTINF:-1 ,Russian Music Box
-https://2serv.mylifeisgood.ml/channels/rusmusicbox
+https://2serv.mylifeisgood.ml/mfolive.m3u8?media=rusmusicbox
 #EXTINF:-1 ,Music Box Gold
-https://2serv.mylifeisgood.ml/channels/musicboxgold
+https://2serv.mylifeisgood.ml/mfolive.m3u8?media=musicboxgold
 #EXTINF:-1 ,ТНТ Music
-https://2serv.mylifeisgood.ml/channels/tntmusic
+https://2serv.mylifeisgood.ml/mfolive.m3u8?media=tntmusic
 #EXTINF:-1, 1 HD
 https://sc.id-tv.kz/1hd_34_35.m3u8
 #EXTINF:-1, ENTERMUSICTV
@@ -474,6 +427,10 @@ http://193.238.110.3/6/hls/live.m3u8
 http://193.238.110.3/2/hls/live.m3u8
 #EXTINF:-1, АРТЕК ЯНТАРНЫЙ HD
 http://193.238.110.3/3/hls/live.m3u8
+#EXTINF:-1, TV 1000 ACTION FHD
+http://dmitry-tv.ml/hls/CH_TV1000ACTIONHD.m3u8
+#EXTINF:-1, TV 1000 HD
+http://dmitry-tv.ml/hls/CH_TV1000HD.m3u8
 #EXTINF:-1,ТНТ Music HD
 http://83.222.205.65:8080/tntmusic/index.m3u8
 #EXTINF:-1, CANAL+MOTOR
@@ -482,6 +439,8 @@ https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
 #EXTINF:-1, 360 Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
+#EXTINF:-1, МОСКВА 24
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2
 #EXTINF:-1, FOX FHD
 http://46.34.209.243:80/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
 #EXTINF:-1, FOX LIFE FHD
