@@ -1,1 +1,1 @@
-https://qzmtch.github.io/iptv/iptvqz.m3u
+https://raw.githubusercontent.com/qzmtch/iptv/master/iptvqz.m3u
