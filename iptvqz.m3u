@@ -57,8 +57,8 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
 #EXTINF:-1, МОСКВА 24
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2
-#EXTINF:-1, 360
-https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
+#EXTINF:-1, Telekanal 360
+http://78.25.155.47:1309/channel/360.ts
 #EXTINF:-1, 360 Новости
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
 #EXTINF:-1, МИР 24 HD
@@ -81,8 +81,10 @@ https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1, TV 1000 Русское кино HD
 https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1, Fox HD
-https://sc.id-tv.kz:443/FOX_HD_34_35.m3u8
+#EXTINF:-1, FOX
+http://78.25.155.47:1309/channel/FOX.ts
+#EXTINF:-1, FOX_life
+http://78.25.155.47:1309/channel/FOX_life.ts
 #EXTINF:-1, History
 https://sc.id-tv.kz:443/HistoryHD_36_37.m3u8
 #EXTINF:-1, H2
@@ -90,15 +92,27 @@ https://sc.id-tv.kz:443/H2HD_36_37.m3u8
 #EXTINF:-1, FilmBox
 http://94.230.240.17:8080/film_box/index.m3u8
 #EXTINF:-1, Иллюзион +
-https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
+http://78.25.155.47:1309/channel/Illuz_plus.ts
+#EXTINF:-1, Русский детектив
+http://78.25.155.47:1309/channel/rus_d.ts
+#EXTINF:-1, Русский иллюзион
+http://78.25.155.47:1309/channel/Rus_illuz.ts
+#EXTINF:-1, Русский роман
+http://78.25.155.47:1309/channel/Rus_rom.ts
+#EXTINF:-1, Sarafan
+http://78.25.155.47:1309/channel/Sarafan.ts
 #EXTINF:-1, Индийское кино
 https://sc.id-tv.kz:443/Indiiskoe_kino_34_35.m3u8
 #EXTINF:-1, Индийское кино
 http://46.174.83.66/Indiiskoe_kino/index.m3u8
+#EXTINF:-1, КИНОСЕРИЯ
+http://78.25.155.47:1309/channel/Mnogoser.ts
 #EXTINF:-1, Кинохит
 https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 #EXTINF:-1, Киномикс HD
 https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1, КИНОМИКС
+http://78.25.155.47:1309/channel/Kino_plus.ts
 #EXTINF:-1, Киномикс
 http://82.209.197.187:8080/udp/239.0.100.33:1234
 #EXTINF:-1, Киносемья FHD
@@ -113,34 +127,36 @@ https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
 #EXTINF:-1, Родное Кино
 https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
+#EXTINF:-1, РОДНОЕ КИНО
+http://78.25.155.47:1309/channel/Nashe_kino.ts
 #EXTINF:-1, Кинопремьера FHD
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:-1, Киноужас HD
 https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
-#EXTINF:-1, Дом кино
-https://sc.id-tv.kz:443/DomKino_36_37.m3u8
 #EXTINF:-1, Дом Кино
-http://45.151.28.21:8000/play/a01j/index.m3u8
-#EXTINF:-1, Дом кино премиум HD
-https://sc.id-tv.kz:443/domkino_hd_34_35.m3u8
+http://78.25.155.47:1309/channel/DOM_kino.ts
+#EXTINF:-1, НАШЕ НОВОЕ КИНО
+http://78.25.155.47:1309/channel/Kinohit.ts
+#EXTINF:-1, TV21
+http://78.25.155.47:1309/channel/TV-21.ts
 #EXTINF:-1, Мужской
 https://sc.id-tv.kz/Mujskoi_34_35.m3u8
 #EXTINF:-1, Кино ТВ
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1, Наука
 http://tv.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1, Дом Кино
-https://pkvc-hls4.cdnvideo.ru/DK/smil:DK.smil/chunklist_b3128000_slru.m3u8
-#EXTINF:-1, Дом Кино
-http://78.25.155.47:1309/channel/DOM_kino.ts
-#EXTINF:-1, Дом Кино Премиум
-https://pkvc-hls4.cdnvideo.ru/DKP/smil:DKP.smil/chunklist_b3128000_slru.m3u8
 #EXTINF:-1, Енисей HD
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1, Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1, Первый СССР
 http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
+#EXTINF:-1, National Geographic
+http://78.25.155.47:1309/channel/Nat_geo.ts
+#EXTINF:-1, National Geographic HD
+http://78.25.155.47:1309/channel/Nat_geo_HD.ts
+#EXTINF:-1, National Geographic Wild
+http://78.25.155.47:1309/channel/Nat_geo_w.ts
 #EXTINF:-1, 2X2 HD
 https://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1, 2X2
@@ -621,12 +637,6 @@ https://v2.catcast.tv/content/270/index.m3u8
 https://tv.a21network.ru/stream/37909/index.m3u8
 #EXTINF:-1, A21 Network - NM TV
 https://tv.a21network.ru/stream/40650/index.m3u8
-#EXTINF:-1, Старт HD
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=startlive
-#EXTINF:-1, УДАР!
-http://2serv.mylifeisgood.ml:8080/channels/udarlive.m3u8
-#EXTINF:-1, МАТЧ! СТРАНА
-https://livetv.mylifeisgood.ml/channels/matchstrana.m3u8
 #EXTINF:-1, Viasat Explore HD
 https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1, Viasat History HD
@@ -635,6 +645,10 @@ https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1, МАТЧ! СТРАНА HD
 https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1, МАТЧ страна
+http://78.25.155.47:1309/channel/Sport_plus.ts
+#EXTINF:-1, МАТЧ игра
+http://78.25.155.47:1309/channel/Sport_2.ts
 #EXTINF:-1, Match_Igra
 http://46.174.83.66/Match_Igra/index.m3u8
 #EXTINF:-1, МАТЧ ПРЕМЬЕР
@@ -1151,3 +1165,9 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/variant.m3u8?version=
 http://46.174.83.66/TNT/index.m3u8
 #EXTINF:-1, ТНТ4
 http://46.174.83.66/TNT4/index.m3u8
+#EXTINF:-1, Первый канал HD
+http://78.25.155.47:1309/channel/ORT_HD.ts
+#EXTINF:-1, Che
+http://78.25.155.47:1309/channel/Che.ts
+#EXTINF:-1, Kanal Disney
+http://78.25.155.47:1309/channel/Disney.ts
