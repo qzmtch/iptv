@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>title</title>
+    <script type="text/javascript">
+        function newContent() {
+            let div = document.querySelector('div');
+        fetch('https://chaturbate.com/api/public/affiliates/onlinerooms/?wm=HNwJw&client_ip=172.70.54.110&limit=500&gender=f')
+      .then(response => response.json())
+      .then(rooms => buildM3U(rooms));
+        }
+      async function buildM3U(rooms) {
+            var keys = rooms['results'];
+            var logo="";
+            var m3u="#EXTM3U"+"\n";
+            for (var i = 0; i < keys.length; i++) {
+              var file = keys[i]; 
+              var link = 'https://edge171.stream.highwebmedia.com/live-edge/amlst:'
+              var link2 = '/playlist.m3u8'
+              var logo=file['image_url'];
+              var name=file['username'];
+              
+                  m3u+= '#EXTINF:-1 tvg-logo="'+logo+'"'+", "+name+"\n" + link + name + link2 + "\n";
+                
+              } 
+              var fileType = "text/plain";
+        var blob = new Blob([m3u], {type: fileType});
+        var blobURL = window.URL.createObjectURL(blob);
+        var filename = "chat.m3u";
+        var downloadLink = document.createElement("a");
+        downloadLink.setAttribute("href", blobURL);
+        downloadLink.setAttribute("download", filename);
+        downloadLink.dataset.downloadurl = fileType + ":" + filename + ":" + blobURL;
+        downloadLink.click();
+            }
+            
+          
+    
+        </script>
+</head>
+<body onload="newContent();">
+    
+    
+
+</body>
+</html>
