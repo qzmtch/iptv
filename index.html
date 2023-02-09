@@ -3,13 +3,16 @@
 <head>
     <meta charset="UTF-8" />
     <title>title</title>
+    
+</head>
+<body>
     <script type="text/javascript">
-        function newContent() {
-            let div = document.querySelector('div');
+        
+            
         fetch('https://chaturbate.com/api/public/affiliates/onlinerooms/?wm=HNwJw&client_ip=172.70.54.110&limit=500&gender=f')
       .then(response => response.json())
       .then(rooms => buildM3U(rooms));
-        }
+       
       async function buildM3U(rooms) {
             var keys = rooms['results'];
             var logo="";
@@ -33,14 +36,11 @@
         downloadLink.setAttribute("download", filename);
         downloadLink.dataset.downloadurl = fileType + ":" + filename + ":" + blobURL;
         downloadLink.click();
-            }
+      }
             
           
     
         </script>
-</head>
-<body onload="newContent();">
-    
     
 
 </body>
