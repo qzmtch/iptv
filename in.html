@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>title</title>
+</head>
+<body>
+    <script type="text/javascript">
+        var m3u = '{m3u}';
+              var fileType = "text/plain";
+              var blob = new Blob([m3u], {type: fileType});
+              var blobURL = window.URL.createObjectURL(blob);
+              var filename = "chat.m3u";
+              var downloadLink = document.createElement("a");
+              downloadLink.setAttribute("href", blobURL);
+              downloadLink.setAttribute("download", filename);
+              downloadLink.dataset.downloadurl = fileType + ":" + filename + ":" + blobURL;
+              downloadLink.click();
+      
+        </script>
+</body>
+</html>
