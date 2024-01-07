@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-STREAM-INF:BANDWIDTH=488000,NAME="FPS:30.0",CODECS="avc1.42c015,mp4a.40.2",RESOLUTION=426x240
+https://edge10-sof.live.mmcdn.com/live-edge/amlst:angel_from_sky/chunklist_w713862723_b448000_t64RlBTOjMwLjA=.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1258000,NAME="FPS:30.0",CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=854x480
+https://edge10-sof.live.mmcdn.com/live-edge/amlst:angel_from_sky/chunklist_w713862723_b1148000_t64RlBTOjMwLjA=.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3396000,NAME="FPS:30.0",CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1280x720
+https://edge10-sof.live.mmcdn.com/live-edge/amlst:angel_from_sky/chunklist_w713862723_b3096000_t64RlBTOjMwLjA=.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5046000,NAME="FPS:60.0",CODECS="avc1.4d4020,mp4a.40.2",RESOLUTION=1280x720
+https://edge10-sof.live.mmcdn.com/live-edge/amlst:angel_from_sky/chunklist_w713862723_b4596000_t64RlBTOjYwLjA=.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=7828000,NAME="FPS:60.0",CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080
+https://edge10-sof.live.mmcdn.com/live-edge/amlst:angel_from_sky/chunklist_w713862723_b7128000_t64RlBTOjYwLjA=.m3u8
